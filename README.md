@@ -1,5 +1,5 @@
 ### 안녕하세요 프로젝트 동아리 CQRE 입니다.
-## CQRE에서 제작한 프로젝트가 업로드 됩니다.
+##### CQRE에서 제작한 프로젝트가 업로드 됩니다.
 <!--
 **SCH-CQRE/sch-cqre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
